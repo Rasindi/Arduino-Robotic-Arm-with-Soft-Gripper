@@ -7,3 +7,5 @@ Soft gripper:   engineered from TPU material, renowned for its soft and adaptabl
 Body:  to enhance portability, the device was constructed with an Aluminium body, ensuring durability while keeping it lightweight. Additionally, some of the parts were 3D printed utilizing PLA, a lightweight material, to further optimize its overall weight and mobility without compromising on strength. 
 
 Code:  the system was fully coded using Arduino IDE software where each servo is given certain limitations in angles and speeds.
+
+![Robotic Arm 2](https://github.com/Rasindi/Arduino-Robotic-Arm-with-Soft-Gripper/assets/151025433/85df872b-e254-456d-8544-6ef2fd314c92)
