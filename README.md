@@ -3,5 +3,7 @@ This explores the journey of developing an Arduino robotic arm designed for hand
 
 # Key points in the project
 Soft gripper:   engineered from TPU material, renowned for its soft and adaptable surfaces, ensuring the careful and secure handling of variously shaped products. This innovation boasts notable advantages, including its lightweight construction, swift gripping capabilities, and versatility in managing a diverse range of objects. Furthermore, the robotic arm exhibits impressive thermal resilience, enabling it to carry objects in environments with temperatures reaching up to 100 degrees Celsius.
+
 Body:  to enhance portability, the device was constructed with an Aluminium body, ensuring durability while keeping it lightweight. Additionally, some of the parts were 3D printed utilizing PLA, a lightweight material, to further optimize its overall weight and mobility without compromising on strength. 
+
 Code:  the system was fully coded using Arduino IDE software where each servo is given certain limitations in angles and speeds.
